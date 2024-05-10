@@ -20,4 +20,4 @@ See some examples of how to use the client:
 
 - [Submiting tasks based on a list of locations](nasa_appears_client/use_cases/submit_tasks.py)
 - [Deleting submitted tasks](nasa_appears_client/use_cases/delete_tasks.py)
-- [Downloading Tiffs from completed submitted tasks](nasa_appears_client/use_cases/delete_tasks.py)
+- [Downloading Tiffs from completed submitted tasks](nasa_appears_client/use_cases/download_files.py)
